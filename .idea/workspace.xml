@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6d9d461b-7932-4c73-b0b2-f07c829fc4b4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../examenvoorbereiding/views/login_incorrect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../examenvoorbereiding/views/users/users_overview.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/shopshop/resources/views/products/layout.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/.idea/Flowerpower.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/.idea/php.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/.idea/phpunit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/.styleci.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/app/Console/Kernel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/app/Exceptions/Handler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/app/Http/Controllers/Admin/UsersController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/app/Http/Controllers/Auth/ConfirmPasswordController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/app/Http/Controllers/Auth/ForgotPasswordController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/app/Http/Controllers/Auth/LoginController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/app/Http/Controllers/Auth/RegisterController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/app/Http/Controllers/Auth/ResetPasswordController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/app/Http/Controllers/Auth/VerificationController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/app/Http/Controllers/Controller.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/app/Http/Controllers/HomeController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/app/Http/Kernel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/app/Http/Middleware/Authenticate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/app/Http/Middleware/CheckForMaintenanceMode.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/app/Http/Middleware/EncryptCookies.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/app/Http/Middleware/RedirectIfAuthenticated.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/app/Http/Middleware/TrimStrings.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/app/Http/Middleware/TrustProxies.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/app/Http/Middleware/VerifyCsrfToken.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/app/Providers/AppServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/app/Providers/AuthServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/app/Providers/BroadcastServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/app/Providers/EventServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/app/Providers/RouteServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/app/Role.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/app/User.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/artisan" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/bootstrap/app.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/bootstrap/cache/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/composer.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/config/app.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/config/auth.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/config/broadcasting.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/config/cache.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/config/cors.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/config/database.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/config/filesystems.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/config/hashing.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/config/logging.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/config/mail.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/config/queue.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/config/services.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/config/session.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/config/view.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/database/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/database/factories/UserFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/database/migrations/2014_10_12_100000_create_password_resets_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/database/migrations/2021_01_26_194303_create_artikel_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/database/migrations/2021_01_26_195146_create_winkel_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/database/migrations/2021_01_26_200953_create_factuur_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/database/migrations/2021_01_26_202307_create_factuurregel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/database/migrations/2021_01_26_202900_create_bestelling_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/database/migrations/2021_02_24_195509_create_roles_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/database/migrations/2021_02_24_202730_create_role_user_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/database/seeds/DatabaseSeeder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/database/seeds/RolesTableSeeder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/database/seeds/UsersTableSeeder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/phpunit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/public/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/public/css/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/public/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/public/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/public/mix-manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/public/web.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/resources/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/resources/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/resources/lang/en/auth.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/resources/lang/en/pagination.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/resources/lang/en/passwords.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/resources/lang/en/validation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/resources/sass/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/resources/sass/app.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/resources/views/admin/users/create.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/resources/views/admin/users/edit.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/resources/views/admin/users/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/resources/views/auth/login.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/resources/views/auth/passwords/confirm.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/resources/views/auth/passwords/email.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/resources/views/auth/passwords/reset.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/resources/views/auth/register.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/resources/views/auth/verify.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/resources/views/home.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/resources/views/layouts/app.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/resources/views/welcome.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/routes/api.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/routes/channels.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/routes/console.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/routes/web.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/server.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/storage/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/storage/app/public/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/storage/framework/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/storage/framework/cache/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/storage/framework/cache/data/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/storage/framework/sessions/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/storage/framework/testing/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/storage/framework/views/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/storage/logs/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/tests/CreatesApplication.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/tests/Feature/ExampleTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/tests/TestCase.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/tests/Unit/ExampleTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/webpack.mix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/.idea/Perfect.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/.idea/php.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/.idea/phpunit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/.styleci.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/app/Console/Kernel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/app/Exceptions/Handler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/app/Http/Controllers/Admin/UsersController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/app/Http/Controllers/Auth/ConfirmPasswordController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/app/Http/Controllers/Auth/ForgotPasswordController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/app/Http/Controllers/Auth/LoginController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/app/Http/Controllers/Auth/RegisterController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/app/Http/Controllers/Auth/ResetPasswordController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/app/Http/Controllers/Auth/VerificationController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/app/Http/Controllers/Controller.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/app/Http/Controllers/HomeController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/app/Http/Kernel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/app/Http/Middleware/Authenticate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/app/Http/Middleware/CheckForMaintenanceMode.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/app/Http/Middleware/EncryptCookies.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/app/Http/Middleware/RedirectIfAuthenticated.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/app/Http/Middleware/TrimStrings.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/app/Http/Middleware/TrustProxies.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/app/Http/Middleware/VerifyCsrfToken.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/app/Providers/AppServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/app/Providers/AuthServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/app/Providers/BroadcastServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/app/Providers/EventServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/app/Providers/RouteServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/app/User.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/artisan" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/bootstrap/app.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/bootstrap/cache/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/composer.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/config/app.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/config/auth.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/config/broadcasting.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/config/cache.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/config/cors.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/config/database.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/config/filesystems.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/config/hashing.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/config/logging.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/config/mail.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/config/queue.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/config/services.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/config/session.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/config/view.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/database/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/database/factories/UserFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/database/migrations/2014_10_12_100000_create_password_resets_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/database/seeds/DatabaseSeeder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/phpunit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/public/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/public/css/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/public/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/public/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/public/mix-manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/public/web.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/resources/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/resources/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/resources/lang/en/auth.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/resources/lang/en/pagination.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/resources/lang/en/passwords.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/resources/lang/en/validation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/resources/sass/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/resources/sass/app.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/resources/views/auth/login.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/resources/views/auth/passwords/confirm.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/resources/views/auth/passwords/email.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/resources/views/auth/passwords/reset.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/resources/views/auth/register.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/resources/views/auth/verify.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/resources/views/home.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/resources/views/layouts/app.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/resources/views/welcome.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/routes/api.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/routes/channels.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/routes/console.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/routes/web.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/server.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/storage/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/storage/app/public/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/storage/framework/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/storage/framework/cache/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/storage/framework/cache/data/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/storage/framework/sessions/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/storage/framework/testing/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/storage/framework/views/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/storage/logs/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/tests/CreatesApplication.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/tests/Feature/ExampleTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/tests/TestCase.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/tests/Unit/ExampleTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/Perfect/webpack.mix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/hotelduin/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/hotelduin/database/migrations/2014_10_12_100000_create_password_resets_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/hotelduin/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/hotelduin/database/migrations/2021_03_01_094528_create_klant_table_.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/hotelduin/database/migrations/2021_03_01_094553_reserveringen_overzicht.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/hotelduin/resources/views/users/create.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel/hotelduin/resources/views/users/index.blade.php" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1ucaFgUq8xfoOivDTaHuxc1dhPx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d9d461b-7932-4c73-b0b2-f07c829fc4b4" name="Default Changelist" comment="" />
+      <created>1624967228352</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624967228352</updated>
+      <workItem from="1624967229393" duration="732000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
