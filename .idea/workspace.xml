@@ -5,6 +5,12 @@
       <change afterPath="$PROJECT_DIR$/../examenvoorbereiding/views/login_incorrect.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../examenvoorbereiding/views/users/users_overview.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../laravel/shopshop/resources/views/products/layout.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/database.php" beforeDir="false" afterPath="$PROJECT_DIR$/code/database.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/setup/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/setup.sql" beforeDir="false" afterPath="$PROJECT_DIR$/setup/setup.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/.editorconfig" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../laravel/Flowerpower/.gitattributes" beforeDir="false" />
@@ -254,7 +260,7 @@
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ucaFgUq8xfoOivDTaHuxc1dhPx" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -285,6 +291,9 @@
       <option name="presentableId" value="Default" />
       <updated>1624967228352</updated>
       <workItem from="1624967229393" duration="9121000" />
+      <workItem from="1625133818283" duration="1333000" />
+      <workItem from="1625135534107" duration="10360000" />
+      <workItem from="1625225779701" duration="4864000" />
     </task>
     <servers />
   </component>
